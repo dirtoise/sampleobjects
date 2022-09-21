@@ -14,14 +14,10 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Welcome to *A.I. Generated Objects*. A website that features collections of **A.I. Generated Art.**
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Below is the website's featured image. This piece was created by an A.I. called *Dream A.I.*
+{% include feature/image.html objectid="coll003" width="25" %}
+There are more of these pieces to be found in the website.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Do enjoy the collection and have fun browsing.
