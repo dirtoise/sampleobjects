@@ -1,0 +1,12 @@
+---
+title: Authors
+layout: cloud
+permalink: /authors.html
+cloud-fields: creator
+cloud-min: 1
+cloud-stopwords:
+---
+
+## Browse Authors
+
+Custom cloud page for image creators.

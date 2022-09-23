@@ -1,8 +1,11 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
-Subjects,/subjects.html
-Map,/map.html
-Timeline,/timeline.html
+Cloud Visualizer,,
+In General,/subjects.html,Cloud Visualizer
+Image Creators,/authors.html,Cloud Visualizer
+Timelines,,
+Full Timeline,/timeline.html,Timelines
+TimelineJS,/timelinejs.html,Timelines
 Data,/data.html
 About,/about.html
